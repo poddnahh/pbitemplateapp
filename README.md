@@ -4,7 +4,7 @@ Pbi download templates to link to apps.
 
 ## 🚀 Overview
 
-The **Power BI Template Download App** is a free tool that provides users with **quick and easy access to over 200 Power BI templates**. Instead of manually searching through each template within Power BI, users can use this app to **search, filter, and preview** templates based on their needs.
+The **Power BI Template Download App** is a free tool that provides users with **quick and easy access to over 130 Power BI Dashbaords, over 200 Power BI visual and 1500 Excel templates**. Instead of manually searching through each template within Power BI, users can use this app to **search, filter, and preview** templates based on their needs.
 
 ## 🎯 Features
 
